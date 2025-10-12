@@ -1,0 +1,25 @@
+{
+  "name": "valeriia_khylchenko",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/DzhynHo/JWPWAI_2025#readme",
+  "bugs": {
+    "url": "https://github.com/DzhynHo/JWPWAI_2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DzhynHo/JWPWAI_2025.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@simplyhexagonal/simple-strings": "^2.0.0",
+    "express": "^5.1.0",
+    "string-reverse": "^2.0.0"
+  }
+}
