@@ -3,8 +3,9 @@ const path = require("path");
 const util = require("util");
 const v8 = require("v8");
 
-const hostname = '127.0.0.1';
-const port = 8888;
+// На Render хост будет любой, а порт динамический
+const hostname = '0.0.0.0';
+const port = process.env.PORT || 8888;
 
 const server = http.createServer((request, response) => {
   response.statusCode = 200;
