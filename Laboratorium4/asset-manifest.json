@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JWPWAI_2025/Laboratorium4/static/css/main.e41d3904.css",
+    "main.js": "/JWPWAI_2025/Laboratorium4/static/js/main.72f321b9.js",
+    "static/js/453.117b0875.chunk.js": "/JWPWAI_2025/Laboratorium4/static/js/453.117b0875.chunk.js",
+    "index.html": "/JWPWAI_2025/Laboratorium4/index.html",
+    "main.e41d3904.css.map": "/JWPWAI_2025/Laboratorium4/static/css/main.e41d3904.css.map",
+    "main.72f321b9.js.map": "/JWPWAI_2025/Laboratorium4/static/js/main.72f321b9.js.map",
+    "453.117b0875.chunk.js.map": "/JWPWAI_2025/Laboratorium4/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e41d3904.css",
+    "static/js/main.72f321b9.js"
+  ]
+}
