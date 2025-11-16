@@ -6,7 +6,7 @@ To repozytorium zawiera wszystkie zadania z laboratoriów realizowane w ramach p
 
 Wszystkie laboratoria są dostępne na stronie GitHub Pages:
 
-👉
+👉 [**Zobacz stronę z wszystkimi labami i projektem**](https://dzhynho.github.io/JWPWAI_2025/)
 ## 📁 Struktura repozytorium 📂
 
 - `Laboratorium1/` – Node.js 💻
