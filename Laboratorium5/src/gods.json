@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Brahma",
+    "role": "Stwórca",
+    "symbol": "Lotos, zwoje, paciorki modlitewne",
+    "image": "brahma.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Wiszu",
+    "role": "Opiekun / Podtrzymujący",
+    "symbol": "Dysk, muszla, buława",
+    "image": "wiszu.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Siwa",
+    "role": "Niszczyciel",
+    "symbol": "Trójząb, bęben, wąż",
+    "image": "siwa.jpg"
+  }
+]
