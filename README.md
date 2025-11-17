@@ -14,6 +14,7 @@ Wszystkie laboratoria są dostępne na stronie GitHub Pages:
 - `Laboratorium3/` – Node.js moduły 💻
 - `Laboratorium4/` – React część 1 🧷 
 - `Laboratorium5/` – React część 2 🎀
+- `Laboratorium5/` – React część 3 🎀
    
 ## 🛠️ Technologie ⚙️
 
