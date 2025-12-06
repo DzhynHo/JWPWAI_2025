@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/JWPWAI_2025/Laboratorium5/static/css/main.ca67042e.css",
+    "main.js": "/JWPWAI_2025/Laboratorium5/static/js/main.b4e0827b.js",
+    "static/js/453.117b0875.chunk.js": "/JWPWAI_2025/Laboratorium5/static/js/453.117b0875.chunk.js",
+    "static/media/mandala.png": "/JWPWAI_2025/Laboratorium5/static/media/mandala.747a9d0ff32546d641f0.png",
+    "static/media/wiszu.jpg": "/JWPWAI_2025/Laboratorium5/static/media/wiszu.108c4819e0f2a72f6ead.jpg",
+    "static/media/mandala-bg.jpg": "/JWPWAI_2025/Laboratorium5/static/media/mandala-bg.91509e971402eab7ab01.jpg",
+    "static/media/siwa.jpg": "/JWPWAI_2025/Laboratorium5/static/media/siwa.f35c26437b8fc14a2174.jpg",
+    "static/media/brahma.jpg": "/JWPWAI_2025/Laboratorium5/static/media/brahma.967b82112ee8e57bfce1.jpg",
+    "index.html": "/JWPWAI_2025/Laboratorium5/index.html",
+    "main.ca67042e.css.map": "/JWPWAI_2025/Laboratorium5/static/css/main.ca67042e.css.map",
+    "main.b4e0827b.js.map": "/JWPWAI_2025/Laboratorium5/static/js/main.b4e0827b.js.map",
+    "453.117b0875.chunk.js.map": "/JWPWAI_2025/Laboratorium5/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca67042e.css",
+    "static/js/main.b4e0827b.js"
+  ]
+}
