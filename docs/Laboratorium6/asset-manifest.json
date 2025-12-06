@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JWPWAI_2025/Laboratorium6/static/css/main.83814e9e.css",
+    "main.js": "/JWPWAI_2025/Laboratorium6/static/js/main.7be846da.js",
+    "static/js/453.117b0875.chunk.js": "/JWPWAI_2025/Laboratorium6/static/js/453.117b0875.chunk.js",
+    "static/media/logo.svg": "/JWPWAI_2025/Laboratorium6/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/JWPWAI_2025/Laboratorium6/index.html",
+    "main.83814e9e.css.map": "/JWPWAI_2025/Laboratorium6/static/css/main.83814e9e.css.map",
+    "main.7be846da.js.map": "/JWPWAI_2025/Laboratorium6/static/js/main.7be846da.js.map",
+    "453.117b0875.chunk.js.map": "/JWPWAI_2025/Laboratorium6/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83814e9e.css",
+    "static/js/main.7be846da.js"
+  ]
+}
