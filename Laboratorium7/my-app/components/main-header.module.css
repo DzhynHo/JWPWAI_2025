@@ -1,0 +1,47 @@
+.header {
+  position: relative;
+  z-index: 10;
+
+  height: 140px; /* dopasowane do SVG */
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px;
+
+  background: linear-gradient(90deg, #b80f0a, #5e0b15);
+  border-bottom: 3px solid #ffb84d;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffd7a8;
+  text-decoration: none;
+}
+
+.navList {
+  list-style: none;
+  display: flex;
+  gap: 28px;
+}
+
+.navLink {
+  color: #ffd7a8;
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: bold;
+
+  transition: 0.2s;
+}
+
+.navLink:hover {
+  color: #ffffff;
+  text-shadow: 0 0 6px #ffcc66;
+}
