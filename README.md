@@ -1,24 +1,48 @@
-<<<<<<< HEAD
 # Języki wysokiego poziomu w aplikacjach internetowych 🚀
 
 To repozytorium zawiera wszystkie zadania z laboratoriów realizowane w ramach przedmiotu **Języki wysokiego poziomu w aplikacjach internetowych**. 🖥️✨
 
+---
+
 ## 🔗 Strona główna 🌐
 
-Wszystkie laboratoria są dostępne na stronie GitHub Pages:
+Wszystkie laboratoria są dostępne online na GitHub Pages:  
 
-👉
-## 📁 Struktura repozytorium 📂
+👉 [Odwiedź stronę projektu](https://dzhynho.github.io/JWPWAI_2025/)  
 
-- `Laboratorium1/` – Node.js 💻
-
-## 🛠️ Technologie ⚙️
-
-
+✨ Sprawdź interaktywne przykłady i gotowe projekty!
 
 ---
 
-Projekt i laboratoria opracowane przez **Valeriia Khylchenko** ✨
-=======
-# JWPWAI_2025
->>>>>>> d44a1e15b4fb8c90fd50c50137e543b87507ec10
+## 📁 Struktura repozytorium 📂
+
+Każde laboratorium znajduje się w osobnym folderze:
+
+- `Laboratorium1/` – Node.js  
+- `Laboratorium2/` – Node.js  
+- `Laboratorium3/` – Node.js  
+- `Laboratorium4/` – React  
+- `Laboratorium5/` – React  
+- `Laboratorium6/` – React  
+- `Laboratorium7/` – Next.js  
+- `Laboratorium8/` – Next.js  
+
+---
+
+## 🛠️ Technologie ⚙️
+
+- Node.js 🟢  
+- React ⚛️  
+- Next.js ⬜  
+- HTML5 & CSS3 🌐  
+- JavaScript ES6+ ✨  
+
+---
+
+## 🌟 Autor
+
+Projekt i laboratoria opracowane przez **Valeriia Khylchenko** ✨  
+
+---
+
+💡 *Tip:* Klikając w link powyżej możesz od razu zobaczyć efekty swojej pracy i testować interaktywne aplikacje w przeglądarce! 🚀
