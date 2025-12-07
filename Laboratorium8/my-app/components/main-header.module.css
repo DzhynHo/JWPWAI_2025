@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+}
+
+.header img {
+  width: 140px;     /* <<< ZMNIEJSZA LOGO */
+  height: auto;
+}
+
+.nav ul {
+  display: flex;
+  list-style: none;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 0;
+}
+
+.nav a {
+  text-decoration: none;
+  font-size: larger;
+  font-weight: 600;
+  color: #b4e2f9;
+}
+
+.nav a:hover {
+  color: #111;
+}
