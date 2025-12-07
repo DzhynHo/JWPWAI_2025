@@ -1,6 +1,12 @@
 # Języki wysokiego poziomu w aplikacjach internetowych 🚀
 
 To repozytorium zawiera wszystkie zadania z laboratoriów realizowane w ramach przedmiotu **Języki wysokiego poziomu w aplikacjach internetowych**. 🖥️✨
+---
+
+## 🌟 Autor
+
+Projekt i laboratoria opracowane przez **Valeriia Khylchenko** ✨  
+
 
 ---
 
@@ -37,12 +43,6 @@ Każde laboratorium znajduje się w osobnym folderze:
 - HTML5 & CSS3 🌐  
 - JavaScript ES6+ ✨  
 
----
 
-## 🌟 Autor
 
-Projekt i laboratoria opracowane przez **Valeriia Khylchenko** ✨  
 
----
-
-💡 *Tip:* Klikając w link powyżej możesz od razu zobaczyć efekty swojej pracy i testować interaktywne aplikacje w przeglądarce! 🚀
