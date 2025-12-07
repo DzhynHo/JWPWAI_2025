@@ -4,31 +4,41 @@
   <meta charset="UTF-8">
   <title>Moje prace laboratoryjne</title>
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&family=Roboto:wght@400;500&display=swap');
+
     body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #2c0000; /* ciemnoczerwone tło */
-      color: #f5f5f5;
+      font-family: 'Roboto', sans-serif;
+      background-color: #0d0d0d;
+      background-image: url('https://www.transparenttextures.com/patterns/asfalt-dark.png'); /* lekka tekstura grunge */
+      color: #c0ffc0; /* jasna zieleń tekst */
       margin: 0;
       padding: 0;
     }
 
     header {
-      background-color: #660000;
-      padding: 2rem;
+      background-color: #111;
+      padding: 3rem 2rem;
       text-align: center;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.5);
+      box-shadow: 0 6px 15px rgba(0,0,0,0.7);
+      border-bottom: 2px solid #0f0;
     }
 
     header h1 {
       margin: 0;
-      font-size: 2.5rem;
-      color: #ffcccc;
-      text-shadow: 2px 2px 4px #000;
+      font-size: 3rem;
+      font-family: 'UnifrakturCook', cursive; /* gotycka czcionka */
+      color: #7fff00; /* kwaśna zieleń */
+      text-shadow: 0 0 5px #7fff00, 2px 2px 6px #000;
+      letter-spacing: 0.05em;
+    }
+
+    header h1::before {
+      content: '✟ ';
     }
 
     main {
       padding: 2rem;
-      max-width: 800px;
+      max-width: 900px;
       margin: auto;
     }
 
@@ -38,36 +48,57 @@
     }
 
     li {
-      margin: 1rem 0;
+      margin: 1.5rem 0;
     }
 
     a {
       display: block;
-      padding: 1rem 1.5rem;
-      background-color: #990000;
-      color: #fff;
-      font-size: 1.2rem;
+      padding: 1.2rem 2rem;
+      background-color: #111;
+      color: #7fff00;
+      font-size: 1.3rem;
       text-decoration: none;
-      border-radius: 8px;
-      transition: all 0.3s ease;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+      border-left: 6px solid #7fff00;
+      border-radius: 6px;
+      box-shadow: 0 4px 12px rgba(0,255,0,0.3);
+      transition: all 0.4s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    a::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(120deg, rgba(255,255,255,0.05), rgba(255,255,255,0.1), rgba(255,255,255,0.05));
+      transform: skewX(-20deg);
+      transition: all 0.5s ease;
+    }
+
+    a:hover::before {
+      left: 100%;
     }
 
     a:hover {
-      background-color: #cc0000;
-      transform: translateY(-2px);
-      box-shadow: 0 6px 10px rgba(0,0,0,0.5);
+      transform: translateY(-3px);
+      box-shadow: 0 6px 20px rgba(127,255,0,0.6);
+      color: #ccff33;
     }
 
     footer {
       text-align: center;
-      padding: 1.5rem;
-      background-color: #660000;
-      color: #ffcccc;
-      margin-top: 2rem;
-      font-size: 0.9rem;
+      padding: 2rem;
+      background-color: #111;
+      color: #7fff00;
+      border-top: 2px solid #0f0;
+      font-family: 'UnifrakturCook', cursive;
+      text-shadow: 0 0 4px #0f0;
+      font-size: 1rem;
+      margin-top: 3rem;
     }
-
   </style>
 </head>
 <body>
@@ -81,10 +112,8 @@
       <li><a href="https://dzhynho.github.io/JWPWAI_2025/Laboratorium4/" target="_blank">Laboratorium 4 - React</a></li>
       <li><a href="https://dzhynho.github.io/JWPWAI_2025/Laboratorium5/" target="_blank">Laboratorium 5 - React</a></li>
       <li><a href="https://dzhynho.github.io/JWPWAI_2025/Laboratorium6/" target="_blank">Laboratorium 6 - React</a></li>
-     
-      <li><a href=" https://jwpwai-2025-lab7.vercel.app/" target="_blank">Laboratorium 7 - Next</a></li>
-      
-
+      <li><a href="https://jwpwai-2025-lab7.vercel.app/" target="_blank">Laboratorium 7 - Next</a></li>
+      <li><a href="https://jwpwai-2025-lab8.vercel.app/" target="_blank">Laboratorium 8 - Next</a></li>
     </ul>
   </main>
 
