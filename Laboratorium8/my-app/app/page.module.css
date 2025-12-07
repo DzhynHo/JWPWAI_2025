@@ -1,0 +1,81 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin: 3rem auto 5rem auto;
+  width: 90%;
+  max-width: 75rem;
+  color: #96ccee; /* oceaniczny, jasny tekst */
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.main {
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto 5rem auto;
+}
+
+.hero-text {
+  flex: 1;
+  color: #f0f8ff;
+}
+
+.hero-text h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.hero-text p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.ImageSlideshow {
+  flex: 1;
+  max-width: 600px;
+  height: 400px;
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+.perks {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  padding: 0;
+  margin: 3rem 0;
+  justify-content: center;
+}
+
+.perks li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.perks img {
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+}
+
+.perks p {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #f0f8ff;
+  text-align: center;
+}

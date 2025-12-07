@@ -1,0 +1,56 @@
+[
+  {
+    "category": "seafood",
+    "title": "Grilled Salmon",
+    "image": "/images/salmon.jpg",
+    "description": "Delicately smoked Sockeye salmon with a rich, smoky flavor."
+  },
+  {
+    "category": "seafood",
+    "title": "Garlic Shrimp",
+    "image": "/images/shrimp.jpg",
+    "description": "Juicy shrimp sautéed in garlic and olive oil."
+  },
+  {
+    "category": "seafood",
+    "title": "Fried Calamari",
+    "image": "/images/calamari.jpg",
+    "description": "Crispy golden fried calamari served with lemon wedges."
+  },
+  {
+    "category": "exotic",
+    "title": "Coconut Sea Curry",
+    "image": "/images/coconut.jpg",
+    "description": "Tropical curry with tender seafood and coconut milk."
+  },
+  {
+    "category": "exotic",
+    "title": "Tropical Tuna Bowl",
+    "image": "/images/bowl.jpg",
+    "description": "Fresh tuna, mango, and avocado in a colorful bowl."
+  },
+  {
+    "category": "exotic",
+    "title": "Pineapple Fish Skewers",
+    "image": "/images/pineapple.jpg",
+    "description": "Grilled fish and pineapple on skewers, lightly glazed."
+  },
+  {
+    "category": "fast",
+    "title": "Ocean Fish Taco",
+    "image": "/images/taco.jpg",
+    "description": "Quick and tasty fish tacos perfect for lunch."
+  },
+  {
+    "category": "fast",
+    "title": "Crispy Fish Burger",
+    "image": "/images/burger.jpg",
+    "description": "Golden fried fish fillet served in a soft bun with sauce."
+  },
+  {
+    "category": "fast",
+    "title": "Sea Fries Box",
+    "image": "/images/fries.jpg",
+    "description": "Crispy fries with calamari bites and tartar sauce."
+  }
+]
