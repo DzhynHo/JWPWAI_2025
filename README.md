@@ -31,7 +31,9 @@ Każde laboratorium znajduje się w osobnym folderze:
 - `Laboratorium5/` – React  
 - `Laboratorium6/` – React  
 - `Laboratorium7/` – Next.js  
-- `Laboratorium8/` – Next.js  
+- `Laboratorium8/` – Next.js
+- `Laboratorium9/` – Next.js
+- `Laboratorium10/` – Next.js
 
 ---
 
