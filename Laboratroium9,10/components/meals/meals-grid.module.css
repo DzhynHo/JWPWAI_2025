@@ -1,0 +1,56 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;         /* wycentrowanie gridu */
+  justify-content: center; /* kolumny wyśrodkowane */
+  max-width: 1200px;      /* ograniczamy szerokość całego gridu */
+}
+
+
+.card {
+  background: #1b2a55;
+  border-radius: 1rem;
+  overflow: hidden;
+  padding-bottom: 1rem;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px #46a7ff55;
+}
+
+.imageWrapper {
+  position: relative;
+  width: 100%;
+  height: 180px;
+  margin-bottom: 1rem;
+}
+
+.cardTitle {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2rem;
+  color: #cce7ff;
+  margin: 0.5rem 0;
+}
+
+.detailsLink {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  background: linear-gradient(90deg, #2a7bcf, #46a7ff);
+  border-radius: 999px;
+  color: white;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: 0.3s;
+}
+
+.detailsLink:hover {
+  background: linear-gradient(90deg, #46a7ff, #6ecbff);
+  box-shadow: 0 0 10px #46a7ff55;
+}

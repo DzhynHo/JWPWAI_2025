@@ -1,0 +1,65 @@
+[
+  {
+    "category": "seafood",
+    "title": "Grilled Salmon",
+    "image": "/images/salmon.jpg",
+    "description": "Delicately smoked Sockeye salmon with a rich, smoky flavor.",
+    "recipe": "1. Rozgrzej grill.\n2. Posmaruj łososia oliwą i przyprawami.\n3. Grilluj 4-5 minut z każdej strony.\n4. Podawaj z cytryną."
+  },
+  {
+    "category": "seafood",
+    "title": "Garlic Shrimp",
+    "image": "/images/shrimp.jpg",
+    "description": "Juicy shrimp sautéed in garlic and olive oil.",
+    "recipe": "1. Podsmaż czosnek na oliwie.\n2. Dodaj krewetki i smaż 3-4 minuty.\n3. Dopraw solą, pieprzem i natką pietruszki.\n4. Podawaj od razu."
+  },
+  {
+    "category": "seafood",
+    "title": "Fried Calamari",
+    "image": "/images/calamari.jpg",
+    "description": "Crispy golden fried calamari served with lemon wedges.",
+    "recipe": "1. Obtocz kalmary w mące.\n2. Smaż w głębokim oleju 2-3 minuty.\n3. Odsącz na ręczniku papierowym.\n4. Podawaj z cytryną i sosem."
+  },
+  {
+    "category": "exotic",
+    "title": "Coconut Sea Curry",
+    "image": "/images/coconut.jpg",
+    "description": "Tropical curry with tender seafood and coconut milk.",
+    "recipe": "1. Podsmaż cebulę i przyprawy.\n2. Dodaj owoce morza i mleko kokosowe.\n3. Gotuj 10 minut.\n4. Podawaj z ryżem."
+  },
+  {
+    "category": "exotic",
+    "title": "Tropical Tuna Bowl",
+    "image": "/images/bowl.jpg",
+    "description": "Fresh tuna, mango, and avocado in a colorful bowl.",
+    "recipe": "1. Pokrój tuńczyka, mango i awokado.\n2. Ułóż w misce.\n3. Skrop sosem sojowym i limonką.\n4. Posyp sezamem."
+  },
+  {
+    "category": "exotic",
+    "title": "Pineapple Fish Skewers",
+    "image": "/images/pineapple.jpg",
+    "description": "Grilled fish and pineapple on skewers, lightly glazed.",
+    "recipe": "1. Nadziewaj kawałki ryby i ananasa na patyczki.\n2. Posmaruj glazurą.\n3. Grilluj 5-6 minut.\n4. Podawaj ciepłe."
+  },
+  {
+    "category": "fast",
+    "title": "Ocean Fish Taco",
+    "image": "/images/taco.jpg",
+    "description": "Quick and tasty fish tacos perfect for lunch.",
+    "recipe": "1. Podsmaż filet ryby.\n2. Nałóż do tortilli z warzywami.\n3. Dodaj sos i limonkę.\n4. Zwiń i podawaj."
+  },
+  {
+    "category": "fast",
+    "title": "Crispy Fish Burger",
+    "image": "/images/burger.jpg",
+    "description": "Golden fried fish fillet served in a soft bun with sauce.",
+    "recipe": "1. Smaż filet ryby w panierce.\n2. Połóż w bułce z sałatą i sosem.\n3. Podawaj z frytkami."
+  },
+  {
+    "category": "fast",
+    "title": "Sea Fries Box",
+    "image": "/images/fries.jpg",
+    "description": "Crispy fries with calamari bites and tartar sauce.",
+    "recipe": "1. Upiecz frytki lub usmaż.\n2. Dodaj kawałki kalmarów.\n3. Podawaj z sosem tatarskim.\n4. Serwuj gorące."
+  }
+]
